@@ -1,6 +1,6 @@
 Doctor How - sample game
 =========
-
+#this is the forked version of Doctor HOW GAME
 A sample tribute game to Doctor Who TV series for Gameboy
 
 ![Doctor How](https://raw.githubusercontent.com/elfgames/doctorhow/master/splash_screen.png)
